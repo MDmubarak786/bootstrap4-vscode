@@ -9,7 +9,7 @@
     "homepage": "https://github.com/thekalinga/bootstrap4-vscode/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/thekalinga/bootstrap4-vscode.git"
+        "url": "https://github.com/amadeann/bootstrap4-vscode.git"
     },
     "engines": {
         "vscode": "^0.10.1"
